@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "GlMvUCbHT0qjx24d",
+        "JWT_KEY": "kartik_private_key"
+    }
+}
